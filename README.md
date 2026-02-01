@@ -70,21 +70,19 @@ Here are some cool things I built:
 💡 I enjoy turning ideas into working software.
 
 ---
-
-### 📊 My GitHub Power
+## 📊 My GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanandd7&show_icons=true&theme=radical" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=devanandd7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanandd7&theme=radical" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=devanandd7&cc=000&tc=fff&ic=fff&bc=000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanandd7&layout=compact&theme=radical" />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=devanandd7&layout=compact" />
 </p>
-
 
 ---
 
