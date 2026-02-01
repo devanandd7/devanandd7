@@ -1,84 +1,118 @@
-# Hi there 👋  
-I’m **Devanand Utkarsh**
-
-### 🚀 About Me
-I am a passionate software developer and MCA student who loves building real-world projects.  
-I enjoy working on web development, programming, and electronics-based projects.
-
-- 🎓 MCA Student at Chandigarh University  
-- 💻 2+ years of experience in self-learning and building projects  
-- 🌱 Always learning new technologies  
-- 🎨 Hobbies: Coding, Painting, Electronics Projects, Cooking  
-- 🌍 From Bihar, India  
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;I+am+Devanand+Utkarsh;Full+Stack+Developer;Creative+Problem+Solver" />
+</p>
 
 ---
 
-### 🛠 Skills & Technologies
+## 🚀 Welcome to My GitHub Universe
 
-**Languages**
-- C  
-- Java  
-- JavaScript  
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-**Web Technologies**
-- HTML  
-- CSS  
-- React.js  
-- Next.js  
+### 👨‍💻 About Me
 
-**Databases**
-- MongoDB  
-- MySQL  
-- SQL  
+- 🎓 MCA Student  
+- 💡 Passionate about Coding and Building Cool Stuff  
+- 🌱 Learning AI, Web Development and New Tech  
+- 🔧 Love creating real world projects  
+- 🎨 Hobbies: Painting, Electronics, Sci-Fi Movies  
 
-**Other Interests**
-- AI & Automation  
-- Electronics Projects (ESP32)  
-- Problem Solving  
+I believe in:  
+**“Code → Create → Innovate → Repeat”**
 
 ---
 
-### 📂 My Projects
+## 🛠 Tech Stack
 
-Here are some of the projects I have worked on:
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js" />
+</p>
 
-- 🌦 **Weather Application** – Live web app to show real-time weather  
-- 👕 **T-Shirt Ordering Website** – E-commerce style ordering system  
-- 🔐 Admin Login System – Simple authentication portal  
-- 🏠 Tenant To-Let Website – Platform for room listings  
-- 🎬 AI Video Player – Face detection based play/pause system  
-- 🚆 Railway System Web App – Payment and seat exchange feature  
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
+</p>
 
-I love turning ideas into working applications.
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
----
-
-### 🔭 What I’m Currently Working On
-
-- Learning AI and Machine Learning  
-- Building Next.js full-stack projects  
-- Exploring advanced database systems  
-- Working with MongoDB Atlas and payment gateways  
-
----
-
-### 📫 Connect With Me
-
-- LinkedIn: (Your LinkedIn Profile Link)  
-- GitHub: You are already here 😄  
+### ⚙ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-### 🌟 Goal
+## 🔥 My Awesome Projects
 
-To become a skilled full-stack developer and build smart, useful, and innovative applications that solve real problems.
+💡 Some of the projects I have built:
+
+- 🌦 **Weather App** – Real-time weather information  
+- 🛒 **E-commerce Website** – T-shirt ordering platform  
+- 🔐 **Admin Login System** – Authentication portal  
+- 🏠 **Tenant To-Let Website** – Room listing system  
+- 🎬 **AI Video Player** – Face detection based play/pause  
+- 🚆 **Railway Web App** – Payment & seat exchange system  
+
+👉 Turning ideas into real applications is my passion!
 
 ---
 
-### 💡 Quote I Believe In
+## 📊 GitHub Stats
 
-> “Learning never stops, and coding makes dreams real.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanandutkarsh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanandutkarsh&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ **If you like my projects, feel free to give them a star!**
+## 🧠 What I’m Learning Now
+
+- 🤖 Artificial Intelligence  
+- ⚡ Advanced JavaScript  
+- 🌐 Full Stack Development  
+- 📡 IoT and ESP32 Projects  
+
+---
+
+## 🌟 Fun Facts
+
+- I enjoy solving logical problems  
+- Love experimenting with electronics  
+- Believe learning is lifelong  
+- Dream to build something big for society  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🎯 Life Goal
+
+> “To become a developer who creates technology that helps people.”
+
+---
+
+### ⭐ If you like my work, give a star to my repositories!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/>
+</p>
+
+---
+
+### Thanks for Visiting My Profile 😊
