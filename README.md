@@ -71,18 +71,14 @@ Here are some cool things I built:
 
 ---
 
-## 📊 My GitHub Power
-
-## 📊 My GitHub Power
-
-## 📊 My GitHub Power
+### 📊 My GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanandd7&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devanandd7&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devanandd7&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanandd7&theme=radical" />
 </p>
 
 <p align="center">
