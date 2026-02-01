@@ -1,6 +1,6 @@
 <!-- Cool Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Hey+There!+👋;I+am+Devanand+Utkarsh;Creative+Developer;Tech+Enthusiast;Welcome+to+My+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Hey+There!+👋;I+am+Devanand+Utkarsh;Creative+Developer;Tech+Enthusiast; Welcome+to+My+GitHub+Profile" />
 </h1>
 
 ---
