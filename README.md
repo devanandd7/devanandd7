@@ -5,9 +5,30 @@
 
 
 ---
+<table>
+<tr>
+<td>
+
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250"/>
 </p>
+
+</td>
+
+<td>
+
+## 📊 My GitHub Power
+
+<img src="https://github-stats-alpha.vercel.app/api?username=devanandd7" />
+
+<br>
+
+<img src="https://github-stats-alpha.vercel.app/api?username=devanandd7&cc=000&tc=fff&ic=fff&bc=000" />
+
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devanandd7&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -68,23 +89,6 @@ Here are some cool things I built:
 - 🚆 Railway Seat Exchange System  
 
 💡 I enjoy turning ideas into working software.
-
----
-## 📊 My GitHub Power
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=devanandd7" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=devanandd7&cc=000&tc=fff&ic=fff&bc=000" />
-</p>
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=devanandd7&layout=compact" />
-</p>
-
----
 
 ## 🧠 Currently Learning
 
