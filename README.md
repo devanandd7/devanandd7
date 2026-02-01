@@ -1,30 +1,36 @@
-<!-- Animated Header -->
+<!-- Cool Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Hey+There!+👋;I+am+Devanand+Utkarsh;Creative+Developer;Tech+Enthusiast;Welcome+to+My+GitHub+Profile" />
+</h1>
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;I+am+Devanand+Utkarsh;Full+Stack+Developer;Creative+Problem+Solver" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 Welcome to My GitHub Universe
+## 🌟 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-### 👨‍💻 About Me
+- 👨‍🎓 MCA Student  
+- 💻 Full Stack Web Developer  
+- 🎨 Creative Mind  
+- 🔧 Love building real world projects  
+- 🌱 Always learning new technology  
+- 🎯 Goal: To build smart and useful applications  
 
-- 🎓 MCA Student  
-- 💡 Passionate about Coding and Building Cool Stuff  
-- 🌱 Learning AI, Web Development and New Tech  
-- 🔧 Love creating real world projects  
-- 🎨 Hobbies: Painting, Electronics, Sci-Fi Movies  
+💬 I believe:
 
-I believe in:  
-**“Code → Create → Innovate → Repeat”**
+> “Coding is not just typing, it is creating a new world.”
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Toolbox
 
-### 💻 Programming Languages
+### 🖥 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
@@ -34,85 +40,95 @@ I believe in:
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
 </p>
 
-### 🗄 Database
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙ Tools & Platforms
+### 🛠 Tools I Use
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🔥 My Awesome Projects
+## 🚀 My Project Universe
 
-💡 Some of the projects I have built:
+Here are some cool things I built:
 
-- 🌦 **Weather App** – Real-time weather information  
-- 🛒 **E-commerce Website** – T-shirt ordering platform  
-- 🔐 **Admin Login System** – Authentication portal  
-- 🏠 **Tenant To-Let Website** – Room listing system  
-- 🎬 **AI Video Player** – Face detection based play/pause  
-- 🚆 **Railway Web App** – Payment & seat exchange system  
+- 🌦 Weather Web App  
+- 🛒 Online Shopping Platform  
+- 🔐 Admin Login System  
+- 🏠 Tenant Room Listing Website  
+- 🎬 AI Based Smart Video Player  
+- 🚆 Railway Seat Exchange System  
 
-👉 Turning ideas into real applications is my passion!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanandutkarsh&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanandutkarsh&theme=tokyonight" />
-</p>
+💡 I enjoy turning ideas into working software.
 
 ---
 
-## 🧠 What I’m Learning Now
+## 📊 My GitHub Power
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🧠 Currently Learning
 
 - 🤖 Artificial Intelligence  
-- ⚡ Advanced JavaScript  
-- 🌐 Full Stack Development  
-- 📡 IoT and ESP32 Projects  
+- 🌐 Advanced Web Development  
+- ⚡ Next.js and Backend Systems  
+- 🔌 IoT and Electronics  
 
 ---
 
-## 🌟 Fun Facts
+## 🎮 Fun Side of Me
 
-- I enjoy solving logical problems  
-- Love experimenting with electronics  
-- Believe learning is lifelong  
-- Dream to build something big for society  
+- 🎨 I love painting  
+- 🔧 I enjoy making electronics projects  
+- 🍳 Cooking is my stress buster  
+- 🎬 Sci-fi movies are my favorite  
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Let’s Connect
 
-<p>
+<p align="center">
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 🎯 Life Goal
-
-> “To become a developer who creates technology that helps people.”
-
----
-
-### ⭐ If you like my work, give a star to my repositories!
+## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### Thanks for Visiting My Profile 😊
+## 🎯 Final Words
+
+> “Small steps every day create big success.”
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250"/>
+</p>
+
+---
+
+### ⭐ Thank You for Visiting My Profile  
+Feel free to explore my repositories!
