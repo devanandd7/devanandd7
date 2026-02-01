@@ -4,9 +4,12 @@
 </h1>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=devanandd7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -122,13 +125,7 @@ Here are some cool things I built:
 
 > “Small steps every day create big success.”
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250"/>
-</p>
-
----
 
 ### ⭐ Thank You for Visiting My Profile  
 Feel free to explore my repositories!
